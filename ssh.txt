@@ -217,7 +217,6 @@ admin:stingray
 adminstrator:adminstrator
 adminstrator:changeme
 adminstrator:password
-Admin:Su
 admin:superuser
 admin:switch
 admin:symbol
@@ -385,9 +384,6 @@ angel:password
 anibal:anibal
 anibal:changeme
 anibal:password
-anon:anon
-anon:password
-Anonymous:
 anonymous:anonymous
 anonymous:changeme
 Anonymous:changeme
@@ -416,7 +412,6 @@ antwan:antwan
 antwan:changeme
 antwan:password
 AP521:AP521
-a:password
 apc:apc
 apc:changeme
 apc:password
@@ -1426,7 +1421,6 @@ earl:password
 earnest:changeme
 earnest:earnest
 earnest:password
-echo:
 echo:changeme
 echo:echo
 echo:password
@@ -1910,7 +1904,6 @@ grover:password
 guadalupe:changeme
 guadalupe:guadalupe
 guadalupe:password
-guest:
 guest:12345
 guest1:guest1
 guest1:password
@@ -4556,7 +4549,6 @@ uploader:changeme
 uploader:password
 uploader:uploader
 uploader:ZYPCOM
-user:user
 User:1001
 user1:changeme
 user1:pass1
