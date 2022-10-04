@@ -10,7 +10,6 @@
 aaron:aaron
 aaron:changeme
 aaron:password
-a:avery
 abdul:abdul
 abdul:changeme
 abdul:password
@@ -4345,7 +4344,6 @@ taylor:taylor
 teacher:changeme
 teacher:password
 teacher:teacher
-tech:
 tech:123456
 tech:changeme
 tech:field
@@ -4558,7 +4556,7 @@ uploader:changeme
 uploader:password
 uploader:uploader
 uploader:ZYPCOM
-user:
+user:user
 User:1001
 user1:changeme
 user1:pass1
