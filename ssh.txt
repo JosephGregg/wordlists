@@ -4085,9 +4085,6 @@ se:password
 sergio:changeme
 sergio:password
 sergio:sergio
-serial#:changeme
-serial#:password
-serial#:serial#
 Service:5678
 service:changeme
 Service:changeme
