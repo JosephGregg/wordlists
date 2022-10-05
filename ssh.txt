@@ -93,7 +93,6 @@ admin:admin
 admin:Admin
 Admin:admin
 Admin:Admin
-admin:admin117.35.97.74
 admin:admin123
 admin:admin1234
 admin:admin12345
