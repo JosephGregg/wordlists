@@ -1,6 +1,8 @@
+:
 1234:1234
 1234:changeme
 1234:password
+4Dgifts:4Dgifts
 666666:666666
 666666:changeme
 666666:password
@@ -22,6 +24,7 @@ abe:password
 abraham:abraham
 abraham:changeme
 abraham:password
+abrt:abrt
 acc:acc
 acc:changeme
 accounting:accounting
@@ -437,6 +440,7 @@ angel:password
 anibal:anibal
 anibal:changeme
 anibal:password
+anon:anon
 anonymous:anonymous
 anonymous:any@
 anonymous:changeme
@@ -474,6 +478,7 @@ app:app
 application:application
 appserve:appserve
 appserver:appserver
+_apt:_apt
 archie:archie
 archie:changeme
 archie:password
@@ -495,6 +500,7 @@ arnulfo:password
 aron:aron
 aron:changeme
 aron:password
+arpwatch:arpwatch
 arron:arron
 arron:changeme
 arron:password
@@ -516,6 +522,7 @@ at4400:password
 aubrey:aubrey
 aubrey:changeme
 aubrey:password
+auditor:auditor
 august:august
 august:changeme
 augustine:augustine
@@ -535,6 +542,8 @@ author:author
 author:password
 autocad:autocad
 autocad:password
+avahi-autoipd:avahi-autoipd
+avahi:avahi
 avery:avery
 avery:changeme
 avery:password
@@ -604,6 +613,7 @@ bcnas:pcnaspw
 beau:beau
 beau:changeme
 beau:password
+beef-xss:beef-xss
 ben:ben
 ben:changeme
 benito:benito
@@ -648,6 +658,7 @@ billy:changeme
 billy:password
 bin:bin
 bin:password
+bitnami:bitnami
 blaine:blaine
 blaine:changeme
 blaine:password
@@ -925,6 +936,8 @@ christoper:password
 christopher:changeme
 christopher:christopher
 christopher:password
+chronos:chronos
+chrony:chrony
 chuck:changeme
 chuck:chuck
 chuck:password
@@ -1032,6 +1045,8 @@ clyde:password
 cmaker:changeme
 cmaker:cmaker
 cmaker:password
+cmwlogin:cmwlogin
+cockpit-ws:cockpit-ws
 cody:changeme
 cody:cody
 cody:password
@@ -1050,6 +1065,7 @@ colin:password
 collin:changeme
 collin:collin
 collin:password
+colord:colord
 comcast:1234
 conferencing:conferencing
 conferencing:password
@@ -1076,6 +1092,7 @@ cornell:password
 cory:changeme
 cory:cory
 cory:password
+couchdb:couchdb
 courtney:changeme
 courtney:courtney
 courtney:password
@@ -1099,6 +1116,7 @@ CSG:password
 CSG:SESAME
 ctb_admin:ctb_admin
 ctb_admin:password
+cups-pk-helper:cups-pk-helper
 curt:changeme
 curt:curt
 curtis:changeme
@@ -1231,10 +1249,12 @@ db2fenc1:password
 db2inst1:db2inst1
 db2inst1:password
 db2:password
+dbadmin:dbadmin
 dbase:dbase
 dbase:password
 dbmadmin:welcome
 dbmmonitor:welcome
+dbus:dbus
 dcmadmin:changeme
 dcmadmin:passw0rd
 dcmadmin:password
@@ -1245,7 +1265,9 @@ deandre:deandre
 deandre:password
 dean:password
 debian:debian
+Debian-exim:Debian-exim
 debian:sixaola
+Debian-snmp:Debian-snmp
 debian:temppwd
 debug:changeme
 debug:d.e.b.u.g
@@ -1374,6 +1396,7 @@ dion:password
 dirk:changeme
 dirk:dirk
 dirk:password
+distccd:distccd
 distrib:distrib
 distrib:password
 disttech:4tas
@@ -1390,6 +1413,7 @@ dm:password
 dm:telnet
 dni:dni
 dni:password
+dnsmasq:dnsmasq
 domingo:changeme
 domingo:domingo
 domingo:password
@@ -1439,6 +1463,7 @@ doyle:doyle
 doyle:password
 dpn:dpn
 dpn:password
+dradis:dradis
 draytek:1234
 draytek:changeme
 draytek:password
@@ -1690,6 +1715,7 @@ everett:password
 ezra:changeme
 ezra:ezra
 ezra:password
+EZsetup:EZsetup
 fabian:changeme
 fabian:fabian
 fabian:password
@@ -1864,6 +1890,7 @@ gary:password
 gavin:changeme
 gavin:gavin
 gavin:password
+gdm:gdm
 GE:changeme
 GE:GE
 GEN1:changeme
@@ -1878,6 +1905,7 @@ genaro:password
 gene:changeme
 gene:gene
 gene:password
+geoclue:geoclue
 geoffrey:changeme
 geoffrey:geoffrey
 geoffrey:password
@@ -1930,6 +1958,8 @@ glftpd:password
 GlobalAdmin:changeme
 GlobalAdmin:GlobalAdmin
 GlobalAdmin:password
+gnats:gnats
+gnome-initial-setup:gnome-initial-setup
 god1:god1
 god1:password
 god2:god2
@@ -2006,6 +2036,7 @@ hadoop:changeme
 hadoop:hadoop
 hadoop:password
 hal:changeme
+haldaemon:haldaemon
 hal:hal
 hal:password
 halt:changeme
@@ -2100,6 +2131,7 @@ houston:password
 howard:changeme
 howard:howard
 howard:password
+hplip:hplip
 hqadmin:hqadmin
 hqadmin:password
 hsa:changeme
@@ -2171,6 +2203,7 @@ inads:changeme
 inads:inads
 inads:indspw
 inads:password
+inetsim:inetsim
 info:changeme
 info:info
 info:password
@@ -2206,9 +2239,11 @@ IntraStack:password
 IntraSwitch:Asante
 IntraSwitch:changeme
 IntraSwitch:password
+iodine:iodine
 ira:changeme
 ira:ira
 ira:password
+irc:irc
 irvin:changeme
 irving:changeme
 irving:irving
@@ -2405,6 +2440,7 @@ jess:password
 jesus:changeme
 jesus:jesus
 jesus:password
+jet:jet
 jim:changeme
 jim:jim
 jimmie:changeme
@@ -2527,6 +2563,7 @@ justin:justin
 justin:password
 kali:kali
 kali:toor
+karaf:karaf
 kareem:changeme
 kareem:kareem
 kareem:password
@@ -2569,6 +2606,7 @@ kent:password
 kermit:changeme
 kermit:kermit
 kermit:password
+kernoops:kernoops
 kerry:changeme
 kerry:kerry
 kerry:password
@@ -2584,6 +2622,7 @@ kieth:password
 kim:changeme
 kim:kim
 kim:password
+king-phisher:king-phisher
 kip:changeme
 kip:kip
 kip:password
@@ -2630,6 +2669,7 @@ lance:password
 landon:changeme
 landon:landon
 landon:password
+landscape:landscape
 lane:changeme
 lane:lane
 lane:password
@@ -2712,9 +2752,12 @@ lewis:lewis
 lewis:password
 lexar:lexar
 lexar:password
+libstoragemgmt:libstoragemgmt
+libuuid:libuuid
 Liebert:changeme
 Liebert:Liebert
 Liebert:password
+lightdm:lightdm
 lincoln:changeme
 lincoln:lincoln
 lincoln:password
@@ -2728,6 +2771,8 @@ linwood:password
 lionel:changeme
 lionel:lionel
 lionel:password
+listen:listen
+list:list
 lloyd:changeme
 lloyd:lloyd
 lloyd:password
@@ -2813,6 +2858,7 @@ lupe:password
 luther:changeme
 luther:luther
 luther:password
+lxd:lxd
 lyle:changeme
 lyle:lyle
 lyle:password
@@ -3023,6 +3069,7 @@ merrill:password
 mervin:changeme
 mervin:mervin
 mervin:password
+messagebus:messagebus
 mfd:mfd
 mfd:password
 mg3500:changeme
@@ -3092,6 +3139,7 @@ milo:password
 milton:changeme
 milton:milton
 milton:password
+miredo:miredo
 misp:Password1234
 mitch:changeme
 mitchel:changeme
@@ -3278,9 +3326,11 @@ nms:changeme
 nms:nms
 nms:nmspw
 nms:password
+noaccess:noaccess
 noah:changeme
 noah:noah
 noah:password
+nobody4:nobody4
 nobody:nobody
 nobody:password
 noe:changeme
@@ -3315,6 +3365,7 @@ norris:norris
 norris:password
 nsroot:nsroot
 nsroot:password
+ntp:ntp
 ntpupdate:changeme
 ntpupdate:ntpupdate
 ntpupdate:password
@@ -3326,6 +3377,8 @@ nutanix:nutanix
 nutanix:password
 nuucp:nuucp
 nuucp:password
+nxautomation:nxautomation
+nxpgsql:nxpgsql
 octavio:changeme
 octavio:octavio
 octavio:password
@@ -3352,6 +3405,8 @@ ollie:password
 omar:changeme
 omar:omar
 omar:password
+omi:omi
+omsagent:omsagent
 onlime_r:onlime_r
 onlime_r:password
 on:on
@@ -3402,6 +3457,7 @@ otis:password
 otto:changeme
 otto:otto
 otto:password
+OutOfBox:OutOfBox
 overseer:overseer
 overseer:password
 owen:changeme
@@ -3467,6 +3523,7 @@ phil:phil
 pierre:changeme
 pierre:password
 pierre:pierre
+pi:pi
 piranha:changeme
 piranha:password
 piranha:piranha
@@ -3484,7 +3541,9 @@ pnadmin:password
 pnadmin:pnadmin
 politically:password
 politically:politically
+polkitd:polkitd
 poll:changeme
+pollinate:pollinate
 poll:password
 poll:poll
 poll:tech
@@ -3492,9 +3551,11 @@ Polycom:456
 Polycom:changeme
 Polycom:password
 Polycom:SpIp
+popr:popr
 porfirio:changeme
 porfirio:password
 porfirio:porfirio
+postfix:postfix
 postgres:123
 postgres:admin
 postgres:amber
@@ -3519,9 +3580,11 @@ primos_cs:primos_cs
 prince:changeme
 prince:password
 prince:prince
+printer:printer
 PRODDTA:changeme
 PRODDTA:password
 PRODDTA:PRODDTA
+proxy:proxy
 prtgadmin:password
 prtgadmin:prtgadmin
 PSEAdmin:$secure$
@@ -3532,6 +3595,7 @@ public:changeme
 public:password
 public:public
 public:publicpass
+pulse:pulse
 puresetup:puresetup
 pureuser:pureuser
 pw:password
@@ -3648,6 +3712,7 @@ recovery:password
 recovery:recovery
 redline:password
 redline:redline
+redsocks:redsocks
 reed:changeme
 reed:password
 reed:reed
@@ -3688,6 +3753,7 @@ reyes:reyes
 reynaldo:changeme
 reynaldo:password
 reynaldo:reynaldo
+rfindd:rfindd
 ricardo:changeme
 ricardo:password
 ricardo:ricardo
@@ -4004,6 +4070,7 @@ root:resumix
 root:reverse
 root:!root
 root:root
+ROOT:ROOT
 root:root01
 root:Root1!
 root:root126
@@ -4045,6 +4112,7 @@ root:wyse
 root:xc3511
 root:xmhdipc
 root:xoa
+rooty:rooty
 root:ys123456
 root:zlxx
 root:zlxx.
@@ -4077,6 +4145,8 @@ royce:royce
 roy:changeme
 roy:password
 roy:roy
+rpc:rpc
+rpcuser:rpcuser
 rsadmin:password
 rsadmin:rsadmin
 RSBCMON:changeme
@@ -4085,6 +4155,7 @@ RSBCMON:SYS
 rsync:changeme
 rsync:password
 rsync:rsync
+rtkit:rtkit
 rtsp:rtsp
 ruben:changeme
 ruben:password
@@ -4120,6 +4191,7 @@ rwa:changeme
 rwa:password
 rwa:rwa
 rw:changeme
+rwhod:rwhod
 rw:password
 rw:rw
 ryan:changeme
@@ -4156,6 +4228,7 @@ samurai:samurai
 sandy:changeme
 sandy:password
 sandy:sandy
+saned:saned
 sanford:changeme
 sanford:password
 sanford:sanford
@@ -4236,6 +4309,7 @@ seth:password
 seth:seth
 setpriv:password
 setpriv:setpriv
+setroubleshoot:setroubleshoot
 setup:changeme
 setup:changeme!
 setup:password
@@ -4243,6 +4317,7 @@ setup:setup
 seymour:changeme
 seymour:password
 seymour:seymour
+sgiweb:sgiweb
 shane:changeme
 shane:password
 shane:shane
@@ -4278,6 +4353,7 @@ sidney:password
 sidney:sidney
 signa:password
 signa:signa
+sigver:sigver
 silas:changeme
 silas:password
 silas:silas
@@ -4309,6 +4385,7 @@ son:son
 spcl:0
 spcl:password
 spcl:spcl
+speech-dispatcher:speech-dispatcher
 spencer:changeme
 spencer:password
 spencer:spencer
@@ -4321,10 +4398,13 @@ ssadmin:password
 ssadmin:ssadmin
 SSA:password
 SSA:SSA
+sshd:sshd
 ssladmin:password
 ssladmin:ssladmin
+sslh:sslh
 ssp:password
 ssp:ssp
+sssd:sssd
 stacey:changeme
 stacey:password
 stacey:stacey
@@ -4379,6 +4459,7 @@ student:changeme
 student:password
 student:password123
 student:student
+stunnel4:stunnel4
 su:changeme
 sung:changeme
 sung:password
@@ -4443,6 +4524,8 @@ sydney:sydney
 sylvester:changeme
 sylvester:password
 sylvester:sylvester
+symop:symop
+sym:sym
 sync:changeme
 sync:password
 sync:sync
@@ -4477,6 +4560,11 @@ system_admin:password
 system_admin:system_admin
 system:changeme
 system:change_on_install
+systemd-bus-proxy:systemd-bus-proxy
+systemd-coredump:systemd-coredump
+systemd-network:systemd-network
+systemd-resolve:systemd-resolve
+systemd-timesync:systemd-timesync
 system/manager:sys/change_on_install
 system:password
 system:sys
@@ -4497,6 +4585,7 @@ tasman:tasman
 taylor:changeme
 taylor:password
 taylor:taylor
+tcpdump:tcpdump
 teacher:changeme
 teacher:password
 teacher:teacher
@@ -4678,6 +4767,7 @@ truman:truman
 ts3:changeme
 ts3:password
 ts3:ts3
+tss:tss
 tutor:password
 tutor:tutor
 ty:changeme
@@ -4701,6 +4791,8 @@ ubnt:ubnt
 ubuntu:changeme
 ubuntu:password
 ubuntu:ubuntu
+udadmin:udadmin
+ultra:ultra
 ulysses:changeme
 ulysses:password
 ulysses:ulysses
@@ -4712,10 +4804,13 @@ umountsys:password
 umountsys:umountsys
 unix:password
 unix:unix
+unscd:unscd
 uploader:changeme
 uploader:password
 uploader:uploader
 uploader:ZYPCOM
+us_admin:us_admin
+usbmux:usbmux
 user:
 User:1001
 user:123456
@@ -4749,6 +4844,7 @@ uucpadm:password
 uucpadm:uucpadm
 uucp:password
 uucp:uucp
+uuidd:uuidd
 uwmadmin:password
 uwmadmin:uwmadmin
 vagrant:vagrant
@@ -4761,6 +4857,7 @@ vance:vance
 van:changeme
 van:password
 van:van
+varnish:varnish
 vaughn:changeme
 vaughn:password
 vaughn:vaughn
@@ -4877,6 +4974,7 @@ weston:password
 weston:weston
 whd:password
 whd:whd
+whoopsie:whoopsie
 wilbert:changeme
 wilbert:password
 wilbert:wilbert
@@ -4963,6 +5061,7 @@ wsupgrade:changeme
 wsupgrade:password
 wsupgrade:wsupgrade
 www:changeme
+www-data:www-data
 www:password
 www:www
 wyatt:changeme
@@ -4983,6 +5082,8 @@ xmi_demo:xmi_demo
 xmsadmin:123456
 xmsadmin:Xtrem10
 xmsupload:xmsupload
+xpdb:xpdb
+xpopr:xpopr
 xxx:cascade
 yong:changeme
 yong:password
@@ -4990,6 +5091,7 @@ yong:yong
 young:changeme
 young:password
 young:young
+zabbix:zabbix
 zachariah:changeme
 zachariah:password
 zachariah:zachariah
